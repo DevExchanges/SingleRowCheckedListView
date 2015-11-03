@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SingleCheckListView</string>
+    <string name="select">Select a Friend...</string>
+</resources>
